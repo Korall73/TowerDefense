@@ -1,0 +1,14 @@
+﻿  TowerDefense.cpp
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(374,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(387,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(388,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(389,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(390,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(391,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(400,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(407,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(414,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(421,86): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(428,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\Северная долина\TowerDefense\TowerDefense\TowerDefense\TowerDefense.cpp(1797,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TowerDefense.vcxproj -> D:\Programming\Северная долина\TowerDefense\TowerDefense\x64\Debug\TowerDefense.exe
